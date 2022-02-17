@@ -8,4 +8,4 @@
 
 ------------
 
-Disponibilizado com ♥ por [cami-la](https://github.com/Luciana-Rpdrigues).
+Disponibilizado com ♥ por [Luciana](https://github.com/Luciana-Rpdrigues).
