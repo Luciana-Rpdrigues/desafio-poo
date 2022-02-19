@@ -1,4 +1,4 @@
-<h1> Desafio: Criação de uma turma</h1>
+<h1> Desafio: Criação de uma Oficina</h1>
 
 <p> Projeto para o bootcamp DIO SPREAD </p>
 
